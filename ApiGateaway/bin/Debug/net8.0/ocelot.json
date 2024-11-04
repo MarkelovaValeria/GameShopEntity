@@ -1,0 +1,55 @@
+{
+  "Routes": [
+    {
+      "UpstreamPathTemplate": "/api/v1/Game",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5155
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Game"
+    },
+    {
+      "UpstreamPathTemplate": "/api/v1/Game/{id}",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5155
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Game/{id}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/v1/Game/gameCategory/{gameId}",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5155
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Game/gameCategory/{gameId}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/v1/ShoppingCart/{userName}",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5124
+        }
+      ],
+      "DownstreamPathTemplate": "/api/ShoppingCart/{userName}"
+    }
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "http://localhost:5133"
+  }
+}
