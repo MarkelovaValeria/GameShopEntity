@@ -1,0 +1,2 @@
+obj\Debug\net8.0\Protos/GameService - CopyGrpc.cs \
+obj\Debug\net8.0\Protos/GameServiceCopy.cs: Protos/game_service - Copy.proto

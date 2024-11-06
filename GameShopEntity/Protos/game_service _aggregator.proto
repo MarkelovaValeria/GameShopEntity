@@ -1,0 +1,22 @@
+
+syntax = "proto3";
+import "Protos/game_service.proto";
+option csharp_namespace = "GameShopEntityAggregator.Grpc";
+
+service AggregatorService {
+    rpc GetAggregatedGameData (AggregatedRequest) returns (AggregatedResponse);
+}
+
+message AggregatedRequest {
+    int32 gameId = 1;
+}
+
+message AggregatedResponse {
+    GameResponse gameData = 1;
+    GameCategoryResponse categoryData = 2;
+}
+
+message GameCategoryResponse {
+    int32 categoryId = 1;
+    string categoryName = 2;
+}

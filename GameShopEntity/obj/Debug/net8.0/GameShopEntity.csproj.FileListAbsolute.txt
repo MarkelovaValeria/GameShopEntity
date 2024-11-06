@@ -159,3 +159,10 @@ C:\Users\Acer\source\repos\GameShopEntity\GameShopEntity\bin\Debug\net8.0\MassTr
 C:\Users\Acer\source\repos\GameShopEntity\GameShopEntity\bin\Debug\net8.0\MassTransit.RabbitMqTransport.dll
 C:\Users\Acer\source\repos\GameShopEntity\GameShopEntity\bin\Debug\net8.0\RabbitMQ.Client.dll
 C:\Users\Acer\source\repos\GameShopEntity\GameShopEntity\obj\Debug\net8.0\GameShopEntity.sourcelink.json
+C:\Users\Acer\source\repos\GameShopEntity\GameShopEntity\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Acer\source\repos\GameShopEntity\GameShopEntity\bin\Debug\net8.0\Grpc.AspNetCore.Server.dll
+C:\Users\Acer\source\repos\GameShopEntity\GameShopEntity\bin\Debug\net8.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\Acer\source\repos\GameShopEntity\GameShopEntity\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Users\Acer\source\repos\GameShopEntity\GameShopEntity\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Users\Acer\source\repos\GameShopEntity\GameShopEntity\bin\Debug\net8.0\Grpc.Net.ClientFactory.dll
+C:\Users\Acer\source\repos\GameShopEntity\GameShopEntity\bin\Debug\net8.0\Grpc.Net.Common.dll

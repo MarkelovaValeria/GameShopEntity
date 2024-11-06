@@ -1,0 +1,2 @@
+obj\Debug\net8.0\Protos/CategoryService.cs \
+obj\Debug\net8.0\Protos/CategoryServiceGrpc.cs: Protos/category_service.proto

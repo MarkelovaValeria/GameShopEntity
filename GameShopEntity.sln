@@ -39,6 +39,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		..\..\..\Downloads\.gitignore = ..\..\..\Downloads\.gitignore
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UserApi", "UserApi", "{5D13B495-9271-44A8-9358-2133ABA2F9E3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -98,6 +100,7 @@ Global
 		{DC39AEDC-4F48-41AE-BB27-6EF7232AD1DE} = {62096D93-061D-46A0-B26A-338AB08BCC97}
 		{2E204629-C203-469E-A209-965E711E5E05} = {62096D93-061D-46A0-B26A-338AB08BCC97}
 		{CD370A18-70C5-47FB-A3B6-21EADF64D495} = {35E26504-007C-41D0-BA1A-5B50B78E03DA}
+		{5D13B495-9271-44A8-9358-2133ABA2F9E3} = {EA9400EA-AE93-4E04-B186-E85AB33B0C0F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2BE661B6-6DE7-4382-B590-F9AF8A1667C9}

@@ -3,44 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD370A18-70C5-47FB-A3B6-21EADF64D495}|ApiGateaway\\ApiGateway.csproj|c:\\users\\acer\\source\\repos\\gameshopentity\\apigateaway\\aggregator\\gameandcartaggregator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD370A18-70C5-47FB-A3B6-21EADF64D495}|ApiGateaway\\ApiGateway.csproj|solutionrelative:apigateaway\\aggregator\\gameandcartaggregator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{988160C6-3DD2-4AC7-A9E8-1E2AAD45BD69}|GameShopEntity\\GameShopEntity.csproj|c:\\users\\acer\\source\\repos\\gameshopentity\\gameshopentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{988160C6-3DD2-4AC7-A9E8-1E2AAD45BD69}|GameShopEntity\\GameShopEntity.csproj|solutionrelative:gameshopentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD370A18-70C5-47FB-A3B6-21EADF64D495}|ApiGateaway\\ApiGateway.csproj|c:\\users\\acer\\source\\repos\\gameshopentity\\apigateaway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD370A18-70C5-47FB-A3B6-21EADF64D495}|ApiGateaway\\ApiGateway.csproj|solutionrelative:apigateaway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D1AC274-7CE5-473B-8580-D44829D63602}|GameShopEntity.BusinessLogicalLayer\\GameShopEntity.BusinessLogicalLayer.csproj|c:\\users\\acer\\source\\repos\\gameshopentity\\gameshopentity.businesslogicallayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D1AC274-7CE5-473B-8580-D44829D63602}|GameShopEntity.BusinessLogicalLayer\\GameShopEntity.BusinessLogicalLayer.csproj|solutionrelative:gameshopentity.businesslogicallayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D1AC274-7CE5-473B-8580-D44829D63602}|GameShopEntity.BusinessLogicalLayer\\GameShopEntity.BusinessLogicalLayer.csproj|c:\\users\\acer\\source\\repos\\gameshopentity\\gameshopentity.businesslogicallayer\\service\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D1AC274-7CE5-473B-8580-D44829D63602}|GameShopEntity.BusinessLogicalLayer\\GameShopEntity.BusinessLogicalLayer.csproj|solutionrelative:gameshopentity.businesslogicallayer\\service\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD370A18-70C5-47FB-A3B6-21EADF64D495}|ApiGateaway\\ApiGateway.csproj|c:\\users\\acer\\source\\repos\\gameshopentity\\apigateaway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CD370A18-70C5-47FB-A3B6-21EADF64D495}|ApiGateaway\\ApiGateway.csproj|solutionrelative:apigateaway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{988160C6-3DD2-4AC7-A9E8-1E2AAD45BD69}|GameShopEntity\\GameShopEntity.csproj|c:\\users\\acer\\source\\repos\\gameshopentity\\gameshopentity\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{988160C6-3DD2-4AC7-A9E8-1E2AAD45BD69}|GameShopEntity\\GameShopEntity.csproj|solutionrelative:gameshopentity\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D1AC274-7CE5-473B-8580-D44829D63602}|GameShopEntity.BusinessLogicalLayer\\GameShopEntity.BusinessLogicalLayer.csproj|c:\\users\\acer\\source\\repos\\gameshopentity\\gameshopentity.businesslogicallayer\\producers\\gameproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D1AC274-7CE5-473B-8580-D44829D63602}|GameShopEntity.BusinessLogicalLayer\\GameShopEntity.BusinessLogicalLayer.csproj|solutionrelative:gameshopentity.businesslogicallayer\\producers\\gameproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD370A18-70C5-47FB-A3B6-21EADF64D495}|ApiGateaway\\ApiGateway.csproj|c:\\users\\acer\\source\\repos\\gameshopentity\\apigateaway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CD370A18-70C5-47FB-A3B6-21EADF64D495}|ApiGateaway\\ApiGateway.csproj|solutionrelative:apigateaway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD370A18-70C5-47FB-A3B6-21EADF64D495}|ApiGateaway\\ApiGateway.csproj|c:\\users\\acer\\source\\repos\\gameshopentity\\apigateaway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CD370A18-70C5-47FB-A3B6-21EADF64D495}|ApiGateaway\\ApiGateway.csproj|solutionrelative:apigateaway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{988160C6-3DD2-4AC7-A9E8-1E2AAD45BD69}|GameShopEntity\\GameShopEntity.csproj|c:\\users\\acer\\source\\repos\\gameshopentity\\gameshopentity\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -49,6 +13,70 @@
     {
       "AbsoluteMoniker": "D:0:0:{988160C6-3DD2-4AC7-A9E8-1E2AAD45BD69}|GameShopEntity\\GameShopEntity.csproj|c:\\users\\acer\\source\\repos\\gameshopentity\\gameshopentity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{988160C6-3DD2-4AC7-A9E8-1E2AAD45BD69}|GameShopEntity\\GameShopEntity.csproj|solutionrelative:gameshopentity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988160C6-3DD2-4AC7-A9E8-1E2AAD45BD69}|GameShopEntity\\GameShopEntity.csproj|c:\\users\\acer\\source\\repos\\gameshopentity\\gameshopentity\\grpc\\gamegrpcclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988160C6-3DD2-4AC7-A9E8-1E2AAD45BD69}|GameShopEntity\\GameShopEntity.csproj|solutionrelative:gameshopentity\\grpc\\gamegrpcclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988160C6-3DD2-4AC7-A9E8-1E2AAD45BD69}|GameShopEntity\\GameShopEntity.csproj|c:\\users\\acer\\source\\repos\\gameshopentity\\gameshopentity\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988160C6-3DD2-4AC7-A9E8-1E2AAD45BD69}|GameShopEntity\\GameShopEntity.csproj|solutionrelative:gameshopentity\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988160C6-3DD2-4AC7-A9E8-1E2AAD45BD69}|GameShopEntity\\GameShopEntity.csproj|c:\\users\\acer\\source\\repos\\gameshopentity\\gameshopentity\\gameshopentity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{988160C6-3DD2-4AC7-A9E8-1E2AAD45BD69}|GameShopEntity\\GameShopEntity.csproj|solutionrelative:gameshopentity\\gameshopentity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988160C6-3DD2-4AC7-A9E8-1E2AAD45BD69}|GameShopEntity\\GameShopEntity.csproj|c:\\users\\acer\\source\\repos\\gameshopentity\\gameshopentity\\grpc\\gameaggregatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988160C6-3DD2-4AC7-A9E8-1E2AAD45BD69}|GameShopEntity\\GameShopEntity.csproj|solutionrelative:gameshopentity\\grpc\\gameaggregatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1AC274-7CE5-473B-8580-D44829D63602}|GameShopEntity.BusinessLogicalLayer\\GameShopEntity.BusinessLogicalLayer.csproj|c:\\users\\acer\\source\\repos\\gameshopentity\\gameshopentity.businesslogicallayer\\service\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1AC274-7CE5-473B-8580-D44829D63602}|GameShopEntity.BusinessLogicalLayer\\GameShopEntity.BusinessLogicalLayer.csproj|solutionrelative:gameshopentity.businesslogicallayer\\service\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1AC274-7CE5-473B-8580-D44829D63602}|GameShopEntity.BusinessLogicalLayer\\GameShopEntity.BusinessLogicalLayer.csproj|c:\\users\\acer\\source\\repos\\gameshopentity\\gameshopentity.businesslogicallayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1AC274-7CE5-473B-8580-D44829D63602}|GameShopEntity.BusinessLogicalLayer\\GameShopEntity.BusinessLogicalLayer.csproj|solutionrelative:gameshopentity.businesslogicallayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C58CF3-92BB-44C1-AC7A-3EFD4B68E76A}|ShoppingCartCQRS\\ShoppingCartCQRS.csproj|c:\\users\\acer\\source\\repos\\gameshopentity\\shoppingcartcqrs\\shoppingcartcqrs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{56C58CF3-92BB-44C1-AC7A-3EFD4B68E76A}|ShoppingCartCQRS\\ShoppingCartCQRS.csproj|solutionrelative:shoppingcartcqrs\\shoppingcartcqrs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1AC274-7CE5-473B-8580-D44829D63602}|GameShopEntity.BusinessLogicalLayer\\GameShopEntity.BusinessLogicalLayer.csproj|c:\\users\\acer\\source\\repos\\gameshopentity\\gameshopentity.businesslogicallayer\\gameshopentity.businesslogicallayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8D1AC274-7CE5-473B-8580-D44829D63602}|GameShopEntity.BusinessLogicalLayer\\GameShopEntity.BusinessLogicalLayer.csproj|solutionrelative:gameshopentity.businesslogicallayer\\gameshopentity.businesslogicallayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD370A18-70C5-47FB-A3B6-21EADF64D495}|ApiGateaway\\ApiGateway.csproj|c:\\users\\acer\\source\\repos\\gameshopentity\\apigateaway\\apigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CD370A18-70C5-47FB-A3B6-21EADF64D495}|ApiGateaway\\ApiGateway.csproj|solutionrelative:apigateaway\\apigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD370A18-70C5-47FB-A3B6-21EADF64D495}|ApiGateaway\\ApiGateway.csproj|c:\\users\\acer\\source\\repos\\gameshopentity\\apigateaway\\aggregator\\gameandcartaggregator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD370A18-70C5-47FB-A3B6-21EADF64D495}|ApiGateaway\\ApiGateway.csproj|solutionrelative:apigateaway\\aggregator\\gameandcartaggregator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD370A18-70C5-47FB-A3B6-21EADF64D495}|ApiGateaway\\ApiGateway.csproj|c:\\users\\acer\\source\\repos\\gameshopentity\\apigateaway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CD370A18-70C5-47FB-A3B6-21EADF64D495}|ApiGateaway\\ApiGateway.csproj|solutionrelative:apigateaway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1AC274-7CE5-473B-8580-D44829D63602}|GameShopEntity.BusinessLogicalLayer\\GameShopEntity.BusinessLogicalLayer.csproj|c:\\users\\acer\\source\\repos\\gameshopentity\\gameshopentity.businesslogicallayer\\dto\\request\\gamerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1AC274-7CE5-473B-8580-D44829D63602}|GameShopEntity.BusinessLogicalLayer\\GameShopEntity.BusinessLogicalLayer.csproj|solutionrelative:gameshopentity.businesslogicallayer\\dto\\request\\gamerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD370A18-70C5-47FB-A3B6-21EADF64D495}|ApiGateaway\\ApiGateway.csproj|c:\\users\\acer\\source\\repos\\gameshopentity\\apigateaway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD370A18-70C5-47FB-A3B6-21EADF64D495}|ApiGateaway\\ApiGateway.csproj|solutionrelative:apigateaway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD370A18-70C5-47FB-A3B6-21EADF64D495}|ApiGateaway\\ApiGateway.csproj|c:\\users\\acer\\source\\repos\\gameshopentity\\apigateaway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CD370A18-70C5-47FB-A3B6-21EADF64D495}|ApiGateaway\\ApiGateway.csproj|solutionrelative:apigateaway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1AC274-7CE5-473B-8580-D44829D63602}|GameShopEntity.BusinessLogicalLayer\\GameShopEntity.BusinessLogicalLayer.csproj|c:\\users\\acer\\source\\repos\\gameshopentity\\gameshopentity.businesslogicallayer\\producers\\gameproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1AC274-7CE5-473B-8580-D44829D63602}|GameShopEntity.BusinessLogicalLayer\\GameShopEntity.BusinessLogicalLayer.csproj|solutionrelative:gameshopentity.businesslogicallayer\\producers\\gameproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD370A18-70C5-47FB-A3B6-21EADF64D495}|ApiGateaway\\ApiGateway.csproj|c:\\users\\acer\\source\\repos\\gameshopentity\\apigateaway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CD370A18-70C5-47FB-A3B6-21EADF64D495}|ApiGateaway\\ApiGateway.csproj|solutionrelative:apigateaway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8D1AC274-7CE5-473B-8580-D44829D63602}|GameShopEntity.BusinessLogicalLayer\\GameShopEntity.BusinessLogicalLayer.csproj|c:\\users\\acer\\source\\repos\\gameshopentity\\gameshopentity.businesslogicallayer\\consumers\\gamecreatedeventconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,10 +95,6 @@
       "RelativeMoniker": "D:0:0:{B79AC659-EA9B-4D65-9714-DC6CA935BC9E}|GameShopEntity.DataAccessLayer\\GameShopEntity.DataAccessLayer.csproj|solutionrelative:gameshopentity.dataaccesslayer\\data\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{988160C6-3DD2-4AC7-A9E8-1E2AAD45BD69}|GameShopEntity\\GameShopEntity.csproj|c:\\users\\acer\\source\\repos\\gameshopentity\\gameshopentity\\gameshopentity.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{988160C6-3DD2-4AC7-A9E8-1E2AAD45BD69}|GameShopEntity\\GameShopEntity.csproj|solutionrelative:gameshopentity\\gameshopentity.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8D1AC274-7CE5-473B-8580-D44829D63602}|GameShopEntity.BusinessLogicalLayer\\GameShopEntity.BusinessLogicalLayer.csproj|c:\\users\\acer\\source\\repos\\gameshopentity\\gameshopentity.businesslogicallayer\\interface\\services\\igamesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D1AC274-7CE5-473B-8580-D44829D63602}|GameShopEntity.BusinessLogicalLayer\\GameShopEntity.BusinessLogicalLayer.csproj|solutionrelative:gameshopentity.businesslogicallayer\\interface\\services\\igamesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -84,10 +108,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{56C58CF3-92BB-44C1-AC7A-3EFD4B68E76A}|ShoppingCartCQRS\\ShoppingCartCQRS.csproj|c:\\users\\acer\\source\\repos\\gameshopentity\\shoppingcartcqrs\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{56C58CF3-92BB-44C1-AC7A-3EFD4B68E76A}|ShoppingCartCQRS\\ShoppingCartCQRS.csproj|solutionrelative:shoppingcartcqrs\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD370A18-70C5-47FB-A3B6-21EADF64D495}|ApiGateaway\\ApiGateway.csproj|c:\\users\\acer\\source\\repos\\gameshopentity\\apigateaway\\apigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{CD370A18-70C5-47FB-A3B6-21EADF64D495}|ApiGateaway\\ApiGateway.csproj|solutionrelative:apigateaway\\apigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{56C58CF3-92BB-44C1-AC7A-3EFD4B68E76A}|ShoppingCartCQRS\\ShoppingCartCQRS.csproj|c:\\users\\acer\\source\\repos\\gameshopentity\\shoppingcartcqrs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -178,10 +198,6 @@
       "RelativeMoniker": "D:0:0:{56C58CF3-92BB-44C1-AC7A-3EFD4B68E76A}|ShoppingCartCQRS\\ShoppingCartCQRS.csproj|solutionrelative:shoppingcartcqrs\\shoppingcartcqrs.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56C58CF3-92BB-44C1-AC7A-3EFD4B68E76A}|ShoppingCartCQRS\\ShoppingCartCQRS.csproj|c:\\users\\acer\\source\\repos\\gameshopentity\\shoppingcartcqrs\\shoppingcartcqrs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{56C58CF3-92BB-44C1-AC7A-3EFD4B68E76A}|ShoppingCartCQRS\\ShoppingCartCQRS.csproj|solutionrelative:shoppingcartcqrs\\shoppingcartcqrs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ShoppingCartCQRS.Infrastructure\\Migrations\\20241102221022_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ShoppingCartCQRS.Infrastructure\\Migrations\\20241102221022_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -234,10 +250,6 @@
       "RelativeMoniker": "D:0:0:{C5DF4A3C-3D8B-4A88-881B-B7036F2F2AD3}|ShoppingCartCQRS.Application\\ShoppingCartCQRS.Application.csproj|solutionrelative:shoppingcartcqrs.application\\shoppingcart\\queries\\getshoppingcartbyid\\getshoppingcartbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{988160C6-3DD2-4AC7-A9E8-1E2AAD45BD69}|GameShopEntity\\GameShopEntity.csproj|c:\\users\\acer\\source\\repos\\gameshopentity\\gameshopentity\\gameshopentity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{988160C6-3DD2-4AC7-A9E8-1E2AAD45BD69}|GameShopEntity\\GameShopEntity.csproj|solutionrelative:gameshopentity\\gameshopentity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C5DF4A3C-3D8B-4A88-881B-B7036F2F2AD3}|ShoppingCartCQRS.Application\\ShoppingCartCQRS.Application.csproj|c:\\users\\acer\\source\\repos\\gameshopentity\\shoppingcartcqrs.application\\shoppingcart\\commands\\updateshoppingcart\\updateshoppingcartcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5DF4A3C-3D8B-4A88-881B-B7036F2F2AD3}|ShoppingCartCQRS.Application\\ShoppingCartCQRS.Application.csproj|solutionrelative:shoppingcartcqrs.application\\shoppingcart\\commands\\updateshoppingcart\\updateshoppingcartcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -276,10 +288,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B79AC659-EA9B-4D65-9714-DC6CA935BC9E}|GameShopEntity.DataAccessLayer\\GameShopEntity.DataAccessLayer.csproj|c:\\users\\acer\\source\\repos\\gameshopentity\\gameshopentity.dataaccesslayer\\entities\\gamecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B79AC659-EA9B-4D65-9714-DC6CA935BC9E}|GameShopEntity.DataAccessLayer\\GameShopEntity.DataAccessLayer.csproj|solutionrelative:gameshopentity.dataaccesslayer\\entities\\gamecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D1AC274-7CE5-473B-8580-D44829D63602}|GameShopEntity.BusinessLogicalLayer\\GameShopEntity.BusinessLogicalLayer.csproj|c:\\users\\acer\\source\\repos\\gameshopentity\\gameshopentity.businesslogicallayer\\dto\\request\\gamerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D1AC274-7CE5-473B-8580-D44829D63602}|GameShopEntity.BusinessLogicalLayer\\GameShopEntity.BusinessLogicalLayer.csproj|solutionrelative:gameshopentity.businesslogicallayer\\dto\\request\\gamerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B79AC659-EA9B-4D65-9714-DC6CA935BC9E}|GameShopEntity.DataAccessLayer\\GameShopEntity.DataAccessLayer.csproj|c:\\users\\acer\\source\\repos\\gameshopentity\\gameshopentity.dataaccesslayer\\interface\\repositories\\igamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -352,6 +360,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ApiGateaway\\GameCartAggregator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiGateaway\\GameCartAggregator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity\\Protos\\game_service _aggregator.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GameShopEntity\\Protos\\game_service _aggregator.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -365,13 +377,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "GameService.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity.BusinessLogicalLayer\\Service\\GameService.cs",
               "RelativeDocumentMoniker": "GameShopEntity.BusinessLogicalLayer\\Service\\GameService.cs",
               "ToolTip": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity.BusinessLogicalLayer\\Service\\GameService.cs",
               "RelativeToolTip": "GameShopEntity.BusinessLogicalLayer\\Service\\GameService.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAQwC4AAAANAAAA",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAowC4AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T08:40:19.69Z",
               "IsPinned": true,
@@ -379,7 +391,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 23,
               "Title": "IGamesService.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity.BusinessLogicalLayer\\Interface\\Services\\IGamesService.cs",
               "RelativeDocumentMoniker": "GameShopEntity.BusinessLogicalLayer\\Interface\\Services\\IGamesService.cs",
@@ -392,7 +404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 21,
               "Title": "GameRepository.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity.DataAccessLayer\\Data\\Repositories\\GameRepository.cs",
               "RelativeDocumentMoniker": "GameShopEntity.DataAccessLayer\\Data\\Repositories\\GameRepository.cs",
@@ -417,46 +429,111 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity\\Program.cs",
-              "RelativeDocumentMoniker": "GameShopEntity\\Program.cs",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity\\Program.cs",
-              "RelativeToolTip": "GameShopEntity\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T09:11:04.869Z",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity\\appsettings.json",
+              "RelativeDocumentMoniker": "GameShopEntity\\appsettings.json",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity\\appsettings.json",
+              "RelativeToolTip": "GameShopEntity\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-06T22:22:21.845Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GameAndCartAggregator.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ApiGateaway\\Aggregator\\GameAndCartAggregator.cs",
-              "RelativeDocumentMoniker": "ApiGateaway\\Aggregator\\GameAndCartAggregator.cs",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ApiGateaway\\Aggregator\\GameAndCartAggregator.cs",
-              "RelativeToolTip": "ApiGateaway\\Aggregator\\GameAndCartAggregator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAswBIAAAABAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity\\Program.cs",
+              "RelativeDocumentMoniker": "GameShopEntity\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity\\Program.cs",
+              "RelativeToolTip": "GameShopEntity\\Program.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAGwAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T20:30:52.125Z",
+              "WhenOpened": "2024-11-06T21:12:15.886Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ApiGateaway\\Program.cs",
-              "RelativeDocumentMoniker": "ApiGateaway\\Program.cs",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ApiGateaway\\Program.cs",
-              "RelativeToolTip": "ApiGateaway\\Program.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACQAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T18:19:27.105Z",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "GameShopEntity\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity\\Properties\\launchSettings.json",
+              "RelativeToolTip": "GameShopEntity\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-06T22:22:23.502Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "GameGrpcClientService.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity\\gRPC\\GameGrpcClientService.cs",
+              "RelativeDocumentMoniker": "GameShopEntity\\gRPC\\GameGrpcClientService.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity\\gRPC\\GameGrpcClientService.cs",
+              "RelativeToolTip": "GameShopEntity\\gRPC\\GameGrpcClientService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T21:24:59.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "GameShopEntity\\Controllers\\GameController.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity\\Controllers\\GameController.cs",
+              "RelativeToolTip": "GameShopEntity\\Controllers\\GameController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAvwE4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T21:12:32.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameShopEntity",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity\\GameShopEntity.csproj",
+              "RelativeDocumentMoniker": "GameShopEntity\\GameShopEntity.csproj",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity\\GameShopEntity.csproj",
+              "RelativeToolTip": "GameShopEntity\\GameShopEntity.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-06T21:31:19.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameAggregatorService.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity\\gRPC\\GameAggregatorService.cs",
+              "RelativeDocumentMoniker": "GameShopEntity\\gRPC\\GameAggregatorService.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity\\gRPC\\GameAggregatorService.cs",
+              "RelativeToolTip": "GameShopEntity\\gRPC\\GameAggregatorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAEwBQAAACEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T21:21:47.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "game_service _aggregator.proto",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity\\Protos\\game_service _aggregator.proto",
+              "RelativeDocumentMoniker": "GameShopEntity\\Protos\\game_service _aggregator.proto",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity\\Protos\\game_service _aggregator.proto",
+              "RelativeToolTip": "GameShopEntity\\Protos\\game_service _aggregator.proto",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-11-06T20:05:41.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity.BusinessLogicalLayer\\Program.cs",
               "RelativeDocumentMoniker": "GameShopEntity.BusinessLogicalLayer\\Program.cs",
@@ -464,12 +541,98 @@
               "RelativeToolTip": "GameShopEntity.BusinessLogicalLayer\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T19:24:55.095Z",
+              "WhenOpened": "2024-11-05T19:24:55.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ShoppingCartCQRS.csproj",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ShoppingCartCQRS\\ShoppingCartCQRS.csproj",
+              "RelativeDocumentMoniker": "ShoppingCartCQRS\\ShoppingCartCQRS.csproj",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ShoppingCartCQRS\\ShoppingCartCQRS.csproj",
+              "RelativeToolTip": "ShoppingCartCQRS\\ShoppingCartCQRS.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-02T22:12:09.304Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
+              "Title": "GameShopEntity.BusinessLogicalLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity.BusinessLogicalLayer\\GameShopEntity.BusinessLogicalLayer.csproj",
+              "RelativeDocumentMoniker": "GameShopEntity.BusinessLogicalLayer\\GameShopEntity.BusinessLogicalLayer.csproj",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity.BusinessLogicalLayer\\GameShopEntity.BusinessLogicalLayer.csproj",
+              "RelativeToolTip": "GameShopEntity.BusinessLogicalLayer\\GameShopEntity.BusinessLogicalLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-06T18:54:34.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApiGateway.csproj",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ApiGateaway\\ApiGateway.csproj",
+              "RelativeDocumentMoniker": "ApiGateaway\\ApiGateway.csproj",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ApiGateaway\\ApiGateway.csproj",
+              "RelativeToolTip": "ApiGateaway\\ApiGateway.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-04T18:27:06.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GameAndCartAggregator.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ApiGateaway\\Aggregator\\GameAndCartAggregator.cs",
+              "RelativeDocumentMoniker": "ApiGateaway\\Aggregator\\GameAndCartAggregator.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ApiGateaway\\Aggregator\\GameAndCartAggregator.cs",
+              "RelativeToolTip": "ApiGateaway\\Aggregator\\GameAndCartAggregator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswBIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T20:30:52.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ApiGateaway\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ApiGateaway\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ApiGateaway\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ApiGateaway\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-04T18:48:22.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GameRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity.BusinessLogicalLayer\\DTO\\Request\\GameRequest.cs",
+              "RelativeDocumentMoniker": "GameShopEntity.BusinessLogicalLayer\\DTO\\Request\\GameRequest.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity.BusinessLogicalLayer\\DTO\\Request\\GameRequest.cs",
+              "RelativeToolTip": "GameShopEntity.BusinessLogicalLayer\\DTO\\Request\\GameRequest.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:55:03.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ApiGateaway\\Program.cs",
+              "RelativeDocumentMoniker": "ApiGateaway\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ApiGateaway\\Program.cs",
+              "RelativeToolTip": "ApiGateaway\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T18:19:27.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "ocelot.json",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ApiGateaway\\ocelot.json",
               "RelativeDocumentMoniker": "ApiGateaway\\ocelot.json",
@@ -477,25 +640,11 @@
               "RelativeToolTip": "ApiGateaway\\ocelot.json",
               "ViewState": "AQIAAGgAAAAAAAAAAAAgwEIAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-04T18:34:54.935Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T18:34:54.935Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GameController.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity\\Controllers\\GameController.cs",
-              "RelativeDocumentMoniker": "GameShopEntity\\Controllers\\GameController.cs",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity\\Controllers\\GameController.cs",
-              "RelativeToolTip": "GameShopEntity\\Controllers\\GameController.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAQwBwAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T09:06:44.085Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
               "Title": "GameProducer.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity.BusinessLogicalLayer\\Producers\\GameProducer.cs",
               "RelativeDocumentMoniker": "GameShopEntity.BusinessLogicalLayer\\Producers\\GameProducer.cs",
@@ -507,7 +656,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 18,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ApiGateaway\\appsettings.json",
               "RelativeDocumentMoniker": "ApiGateaway\\appsettings.json",
@@ -519,43 +668,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ApiGateaway\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "ApiGateaway\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ApiGateaway\\Properties\\launchSettings.json",
-              "RelativeToolTip": "ApiGateaway\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-04T18:48:22.253Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "GameShopEntity\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity\\Properties\\launchSettings.json",
-              "RelativeToolTip": "GameShopEntity\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-02T22:15:21.066Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity\\appsettings.json",
-              "RelativeDocumentMoniker": "GameShopEntity\\appsettings.json",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity\\appsettings.json",
-              "RelativeToolTip": "GameShopEntity\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-22T09:28:02.539Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 19,
               "Title": "GameCreatedEventConsumer.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity.BusinessLogicalLayer\\Consumers\\GameCreatedEventConsumer.cs",
               "RelativeDocumentMoniker": "GameShopEntity.BusinessLogicalLayer\\Consumers\\GameCreatedEventConsumer.cs",
@@ -567,7 +680,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 20,
               "Title": "GameCreatedEvent.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity.BusinessLogicalLayer\\DTO\\Request\\GameCreatedEvent.cs",
               "RelativeDocumentMoniker": "GameShopEntity.BusinessLogicalLayer\\DTO\\Request\\GameCreatedEvent.cs",
@@ -579,19 +692,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "GameShopEntity.http",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity\\GameShopEntity.http",
-              "RelativeDocumentMoniker": "GameShopEntity\\GameShopEntity.http",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity\\GameShopEntity.http",
-              "RelativeToolTip": "GameShopEntity\\GameShopEntity.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-10-22T14:45:47.363Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 22,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity.DataAccessLayer\\Data\\Repositories\\GenericRepository.cs",
               "RelativeDocumentMoniker": "GameShopEntity.DataAccessLayer\\Data\\Repositories\\GenericRepository.cs",
@@ -603,7 +704,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 24,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\.gitignore",
               "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\.gitignore",
@@ -615,7 +716,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 25,
               "Title": "ShoppingCartController.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ShoppingCartCQRS\\Controllers\\ShoppingCartController.cs",
               "RelativeDocumentMoniker": "ShoppingCartCQRS\\Controllers\\ShoppingCartController.cs",
@@ -627,7 +728,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 26,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ShoppingCartCQRS\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ShoppingCartCQRS\\Properties\\launchSettings.json",
@@ -639,19 +740,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ApiGateway.csproj",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ApiGateaway\\ApiGateway.csproj",
-              "RelativeDocumentMoniker": "ApiGateaway\\ApiGateway.csproj",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ApiGateaway\\ApiGateway.csproj",
-              "RelativeToolTip": "ApiGateaway\\ApiGateway.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-04T18:27:06.701Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ShoppingCartCQRS\\appsettings.json",
               "RelativeDocumentMoniker": "ShoppingCartCQRS\\appsettings.json",
@@ -663,7 +752,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 28,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ShoppingCartCQRS\\Program.cs",
               "RelativeDocumentMoniker": "ShoppingCartCQRS\\Program.cs",
@@ -675,7 +764,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 29,
               "Title": "ConfigureServices.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ShoppingCartCQRS.Infrastructure\\ConfigureServices.cs",
               "RelativeDocumentMoniker": "ShoppingCartCQRS.Infrastructure\\ConfigureServices.cs",
@@ -687,7 +776,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 30,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ShoppingCartCQRS.Infrastructure\\Program.cs",
               "RelativeDocumentMoniker": "ShoppingCartCQRS.Infrastructure\\Program.cs",
@@ -699,7 +788,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 31,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ShoppingCartCQRS.Application\\Program.cs",
               "RelativeDocumentMoniker": "ShoppingCartCQRS.Application\\Program.cs",
@@ -711,7 +800,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 32,
               "Title": "ConfigureServices.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ShoppingCartCQRS.Application\\ConfigureServices.cs",
               "RelativeDocumentMoniker": "ShoppingCartCQRS.Application\\ConfigureServices.cs",
@@ -723,7 +812,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 33,
               "Title": "ShoppingCartItemVm.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ShoppingCartCQRS.Application\\ShoppingCart\\Queries\\GetShoppingCart\\ShoppingCartItemVm.cs",
               "RelativeDocumentMoniker": "ShoppingCartCQRS.Application\\ShoppingCart\\Queries\\GetShoppingCart\\ShoppingCartItemVm.cs",
@@ -735,7 +824,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 34,
               "Title": "ShoppingCartItemSeeder.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\Persistance\\Seeding\\ShoppingCartItemSeeder.cs",
               "RelativeDocumentMoniker": "Persistance\\Seeding\\ShoppingCartItemSeeder.cs",
@@ -747,7 +836,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 35,
               "Title": "GetShoppingCartQuery.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ShoppingCartCQRS.Application\\ShoppingCart\\Queries\\GetShoppingCart\\GetShoppingCartQuery.cs",
               "RelativeDocumentMoniker": "ShoppingCartCQRS.Application\\ShoppingCart\\Queries\\GetShoppingCart\\GetShoppingCartQuery.cs",
@@ -759,7 +848,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 37,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ShoppingCartCQRS.Application\\Common\\Mapping\\MappingProfile.cs",
               "RelativeDocumentMoniker": "ShoppingCartCQRS.Application\\Common\\Mapping\\MappingProfile.cs",
@@ -771,7 +860,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 36,
               "Title": "IMapFrom.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ShoppingCartCQRS.Application\\Common\\Mapping\\IMapFrom.cs",
               "RelativeDocumentMoniker": "ShoppingCartCQRS.Application\\Common\\Mapping\\IMapFrom.cs",
@@ -783,7 +872,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 38,
               "Title": "ShoppingCartRepository.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ShoppingCartCQRS.Infrastructure\\Repositories\\ShoppingCartRepository.cs",
               "RelativeDocumentMoniker": "ShoppingCartCQRS.Infrastructure\\Repositories\\ShoppingCartRepository.cs",
@@ -795,7 +884,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 39,
               "Title": "ShoppingCart.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ShoppingCartCQRS.Domain\\Entities\\ShoppingCart.cs",
               "RelativeDocumentMoniker": "ShoppingCartCQRS.Domain\\Entities\\ShoppingCart.cs",
@@ -807,7 +896,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 40,
               "Title": "GetShoppingCartQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ShoppingCartCQRS.Application\\ShoppingCart\\Queries\\GetShoppingCart\\GetShoppingCartQueryHandler.cs",
               "RelativeDocumentMoniker": "ShoppingCartCQRS.Application\\ShoppingCart\\Queries\\GetShoppingCart\\GetShoppingCartQueryHandler.cs",
@@ -819,7 +908,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 41,
               "Title": "ShoppingCartSeeder.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\Persistance\\Seeding\\ShoppingCartSeeder.cs",
               "RelativeDocumentMoniker": "Persistance\\Seeding\\ShoppingCartSeeder.cs",
@@ -831,7 +920,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 42,
               "Title": "ShoppingCartItemConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\Persistance\\Configurations\\ShoppingCartItemConfiguration.cs",
               "RelativeDocumentMoniker": "Persistance\\Configurations\\ShoppingCartItemConfiguration.cs",
@@ -843,7 +932,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 43,
               "Title": "ShoppingCartConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\Persistance\\Configurations\\ShoppingCartConfiguration.cs",
               "RelativeDocumentMoniker": "Persistance\\Configurations\\ShoppingCartConfiguration.cs",
@@ -855,7 +944,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
+              "DocumentIndex": 88,
               "Title": "20241103224125_1.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ShoppingCartCQRS.Infrastructure\\Migrations\\20241103224125_1.cs",
               "RelativeDocumentMoniker": "ShoppingCartCQRS.Infrastructure\\Migrations\\20241103224125_1.cs",
@@ -867,7 +956,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 44,
               "Title": "GameRating.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity.DataAccessLayer\\Entities\\GameRating.cs",
               "RelativeDocumentMoniker": "GameShopEntity.DataAccessLayer\\Entities\\GameRating.cs",
@@ -879,7 +968,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 45,
               "Title": "20241103195751_3.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ShoppingCartCQRS.Infrastructure\\Migrations\\20241103195751_3.cs",
               "RelativeDocumentMoniker": "ShoppingCartCQRS.Infrastructure\\Migrations\\20241103195751_3.cs",
@@ -890,7 +979,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 46,
               "Title": "ApiControllerBase.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ShoppingCartCQRS\\Controllers\\ApiControllerBase.cs",
               "RelativeDocumentMoniker": "ShoppingCartCQRS\\Controllers\\ApiControllerBase.cs",
@@ -902,7 +991,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 47,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\Persistance\\Program.cs",
               "RelativeDocumentMoniker": "Persistance\\Program.cs",
@@ -914,30 +1003,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 48,
               "Title": "ShoppingCartCQRS",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ShoppingCartCQRS\\ShoppingCartCQRS.csproj",
               "RelativeDocumentMoniker": "ShoppingCartCQRS\\ShoppingCartCQRS.csproj",
               "ToolTip": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ShoppingCartCQRS\\ShoppingCartCQRS.csproj",
               "RelativeToolTip": "ShoppingCartCQRS\\ShoppingCartCQRS.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-02T22:14:38.407Z"
+              "WhenOpened": "2024-11-02T22:14:38.407Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "ShoppingCartCQRS.csproj",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ShoppingCartCQRS\\ShoppingCartCQRS.csproj",
-              "RelativeDocumentMoniker": "ShoppingCartCQRS\\ShoppingCartCQRS.csproj",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ShoppingCartCQRS\\ShoppingCartCQRS.csproj",
-              "RelativeToolTip": "ShoppingCartCQRS\\ShoppingCartCQRS.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-02T22:12:09.304Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 49,
               "Title": "20241102221022_1.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ShoppingCartCQRS.Infrastructure\\Migrations\\20241102221022_1.cs",
               "RelativeDocumentMoniker": "ShoppingCartCQRS.Infrastructure\\Migrations\\20241102221022_1.cs",
@@ -948,7 +1026,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 50,
               "Title": "ShoppingCartDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ShoppingCartCQRS.Infrastructure\\Data\\ShoppingCartDbContext.cs",
               "RelativeDocumentMoniker": "ShoppingCartCQRS.Infrastructure\\Data\\ShoppingCartDbContext.cs",
@@ -960,7 +1038,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 51,
               "Title": "Games.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity.DataAccessLayer\\Entities\\Games.cs",
               "RelativeDocumentMoniker": "GameShopEntity.DataAccessLayer\\Entities\\Games.cs",
@@ -972,7 +1050,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 52,
               "Title": "ISeeder.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\Persistance\\Seeding\\ISeeder.cs",
               "RelativeDocumentMoniker": "Persistance\\Seeding\\ISeeder.cs",
@@ -984,7 +1062,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 53,
               "Title": "ShoppingCartCQRS.http",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ShoppingCartCQRS\\ShoppingCartCQRS.http",
               "RelativeDocumentMoniker": "ShoppingCartCQRS\\ShoppingCartCQRS.http",
@@ -996,7 +1074,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 54,
               "Title": "CategoriesConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity.DataAccessLayer\\Configurations\\CategoriesConfiguration.cs",
               "RelativeDocumentMoniker": "GameShopEntity.DataAccessLayer\\Configurations\\CategoriesConfiguration.cs",
@@ -1008,7 +1086,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 55,
               "Title": "GameShopContext.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity.DataAccessLayer\\GameShopContext.cs",
               "RelativeDocumentMoniker": "GameShopEntity.DataAccessLayer\\GameShopContext.cs",
@@ -1020,7 +1098,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 56,
               "Title": "GamesConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity.DataAccessLayer\\Configurations\\GamesConfiguration.cs",
               "RelativeDocumentMoniker": "GameShopEntity.DataAccessLayer\\Configurations\\GamesConfiguration.cs",
@@ -1032,7 +1110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 57,
               "Title": "GameSeeder.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity.DataAccessLayer\\Seeding\\GameSeeder.cs",
               "RelativeDocumentMoniker": "GameShopEntity.DataAccessLayer\\Seeding\\GameSeeder.cs",
@@ -1044,7 +1122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 58,
               "Title": "ISeeder.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity.DataAccessLayer\\Interface\\ISeeder.cs",
               "RelativeDocumentMoniker": "GameShopEntity.DataAccessLayer\\Interface\\ISeeder.cs",
@@ -1056,7 +1134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 59,
               "Title": "GameCategoryConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity.DataAccessLayer\\Configurations\\GameCategoryConfiguration.cs",
               "RelativeDocumentMoniker": "GameShopEntity.DataAccessLayer\\Configurations\\GameCategoryConfiguration.cs",
@@ -1068,7 +1146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 60,
               "Title": "GetShoppingCartByIdQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ShoppingCartCQRS.Application\\ShoppingCart\\Queries\\GetShoppingCartById\\GetShoppingCartByIdQueryHandler.cs",
               "RelativeDocumentMoniker": "ShoppingCartCQRS.Application\\ShoppingCart\\Queries\\GetShoppingCartById\\GetShoppingCartByIdQueryHandler.cs",
@@ -1080,7 +1158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 61,
               "Title": "GetShoppingCartByIdQuery.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ShoppingCartCQRS.Application\\ShoppingCart\\Queries\\GetShoppingCartById\\GetShoppingCartByIdQuery.cs",
               "RelativeDocumentMoniker": "ShoppingCartCQRS.Application\\ShoppingCart\\Queries\\GetShoppingCartById\\GetShoppingCartByIdQuery.cs",
@@ -1092,19 +1170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
-              "Title": "GameShopEntity.csproj",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity\\GameShopEntity.csproj",
-              "RelativeDocumentMoniker": "GameShopEntity\\GameShopEntity.csproj",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity\\GameShopEntity.csproj",
-              "RelativeToolTip": "GameShopEntity\\GameShopEntity.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-02T20:03:12.23Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 62,
               "Title": "UpdateShoppingCartCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ShoppingCartCQRS.Application\\ShoppingCart\\Commands\\UpdateShoppingCart\\UpdateShoppingCartCommandHandler.cs",
               "RelativeDocumentMoniker": "ShoppingCartCQRS.Application\\ShoppingCart\\Commands\\UpdateShoppingCart\\UpdateShoppingCartCommandHandler.cs",
@@ -1116,7 +1182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 63,
               "Title": "UpdateShoppingCartCommand.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ShoppingCartCQRS.Application\\ShoppingCart\\Commands\\UpdateShoppingCart\\UpdateShoppingCartCommand.cs",
               "RelativeDocumentMoniker": "ShoppingCartCQRS.Application\\ShoppingCart\\Commands\\UpdateShoppingCart\\UpdateShoppingCartCommand.cs",
@@ -1128,7 +1194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 64,
               "Title": "IShoppingCartRepository.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ShoppingCartCQRS.Domain\\Interface\\IShoppingCartRepository.cs",
               "RelativeDocumentMoniker": "ShoppingCartCQRS.Domain\\Interface\\IShoppingCartRepository.cs",
@@ -1140,7 +1206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 65,
               "Title": "CreateShoppingCartCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ShoppingCartCQRS.Application\\ShoppingCart\\Commands\\CreateShoppingCart\\CreateShoppingCartCommandHandler.cs",
               "RelativeDocumentMoniker": "ShoppingCartCQRS.Application\\ShoppingCart\\Commands\\CreateShoppingCart\\CreateShoppingCartCommandHandler.cs",
@@ -1152,7 +1218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 66,
               "Title": "CreateShoppingCartCommand.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ShoppingCartCQRS.Application\\ShoppingCart\\Commands\\CreateShoppingCart\\CreateShoppingCartCommand.cs",
               "RelativeDocumentMoniker": "ShoppingCartCQRS.Application\\ShoppingCart\\Commands\\CreateShoppingCart\\CreateShoppingCartCommand.cs",
@@ -1164,7 +1230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 67,
               "Title": "DeleteShoppingCartCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ShoppingCartCQRS.Application\\ShoppingCart\\Commands\\DeleteShoppingCart\\DeleteShoppingCartCommandHandler.cs",
               "RelativeDocumentMoniker": "ShoppingCartCQRS.Application\\ShoppingCart\\Commands\\DeleteShoppingCart\\DeleteShoppingCartCommandHandler.cs",
@@ -1176,7 +1242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 68,
               "Title": "DeleteShoppingCartCommand.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ShoppingCartCQRS.Application\\ShoppingCart\\Commands\\DeleteShoppingCart\\DeleteShoppingCartCommand.cs",
               "RelativeDocumentMoniker": "ShoppingCartCQRS.Application\\ShoppingCart\\Commands\\DeleteShoppingCart\\DeleteShoppingCartCommand.cs",
@@ -1188,7 +1254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 69,
               "Title": "ShoppingCartCQRS.Application.csproj",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ShoppingCartCQRS.Application\\ShoppingCartCQRS.Application.csproj",
               "RelativeDocumentMoniker": "ShoppingCartCQRS.Application\\ShoppingCartCQRS.Application.csproj",
@@ -1196,11 +1262,12 @@
               "RelativeToolTip": "ShoppingCartCQRS.Application\\ShoppingCartCQRS.Application.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-02T12:18:23.955Z"
+              "WhenOpened": "2024-11-02T12:18:23.955Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 70,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ShoppingCartCQRS.Domain\\Program.cs",
               "RelativeDocumentMoniker": "ShoppingCartCQRS.Domain\\Program.cs",
@@ -1212,7 +1279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 71,
               "Title": "GameCategory.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity.DataAccessLayer\\Entities\\GameCategory.cs",
               "RelativeDocumentMoniker": "GameShopEntity.DataAccessLayer\\Entities\\GameCategory.cs",
@@ -1224,19 +1291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
-              "Title": "GameRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity.BusinessLogicalLayer\\DTO\\Request\\GameRequest.cs",
-              "RelativeDocumentMoniker": "GameShopEntity.BusinessLogicalLayer\\DTO\\Request\\GameRequest.cs",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity.BusinessLogicalLayer\\DTO\\Request\\GameRequest.cs",
-              "RelativeToolTip": "GameShopEntity.BusinessLogicalLayer\\DTO\\Request\\GameRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAIBJwA4AAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T08:55:03.886Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 72,
               "Title": "IGameRepository.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity.DataAccessLayer\\Interface\\Repositories\\IGameRepository.cs",
               "RelativeDocumentMoniker": "GameShopEntity.DataAccessLayer\\Interface\\Repositories\\IGameRepository.cs",
@@ -1248,7 +1303,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 73,
               "Title": "AutoMapperProfile.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity.BusinessLogicalLayer\\Configurations\\AutoMapperProfile.cs",
               "RelativeDocumentMoniker": "GameShopEntity.BusinessLogicalLayer\\Configurations\\AutoMapperProfile.cs",
@@ -1260,7 +1315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 74,
               "Title": "GameCategoryResponse.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity.BusinessLogicalLayer\\DTO\\Response\\GameCategoryResponse.cs",
               "RelativeDocumentMoniker": "GameShopEntity.BusinessLogicalLayer\\DTO\\Response\\GameCategoryResponse.cs",
@@ -1272,7 +1327,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 76,
               "Title": "GameCategorySeeder.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity.DataAccessLayer\\Seeding\\GameCategorySeeder.cs",
               "RelativeDocumentMoniker": "GameShopEntity.DataAccessLayer\\Seeding\\GameCategorySeeder.cs",
@@ -1284,7 +1339,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 75,
               "Title": "CategoriesSeeder.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity.DataAccessLayer\\Seeding\\CategoriesSeeder.cs",
               "RelativeDocumentMoniker": "GameShopEntity.DataAccessLayer\\Seeding\\CategoriesSeeder.cs",
@@ -1296,7 +1351,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 77,
               "Title": "CategoryResponse.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity.BusinessLogicalLayer\\DTO\\Response\\CategoryResponse.cs",
               "RelativeDocumentMoniker": "GameShopEntity.BusinessLogicalLayer\\DTO\\Response\\CategoryResponse.cs",
@@ -1308,7 +1363,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 78,
               "Title": "Categories.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity.DataAccessLayer\\Entities\\Categories.cs",
               "RelativeDocumentMoniker": "GameShopEntity.DataAccessLayer\\Entities\\Categories.cs",
@@ -1320,7 +1375,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 79,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity.DataAccessLayer\\Data\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "GameShopEntity.DataAccessLayer\\Data\\UnitOfWork.cs",
@@ -1332,7 +1387,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 80,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity.DataAccessLayer\\Interface\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "GameShopEntity.DataAccessLayer\\Interface\\IUnitOfWork.cs",
@@ -1344,7 +1399,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
+              "DocumentIndex": 85,
               "Title": "20241022145326_create2.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity.DataAccessLayer\\Migrations\\20241022145326_create2.cs",
               "RelativeDocumentMoniker": "GameShopEntity.DataAccessLayer\\Migrations\\20241022145326_create2.cs",
@@ -1356,7 +1411,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
+              "DocumentIndex": 86,
               "Title": "20241022144709_create1.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity.DataAccessLayer\\Migrations\\20241022144709_create1.cs",
               "RelativeDocumentMoniker": "GameShopEntity.DataAccessLayer\\Migrations\\20241022144709_create1.cs",
@@ -1368,7 +1423,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
+              "DocumentIndex": 87,
               "Title": "20241022144307_create.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity.DataAccessLayer\\Migrations\\20241022144307_create.cs",
               "RelativeDocumentMoniker": "GameShopEntity.DataAccessLayer\\Migrations\\20241022144307_create.cs",
@@ -1380,7 +1435,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 81,
               "Title": "GameRatingSeeder.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity.DataAccessLayer\\Seeding\\GameRatingSeeder.cs",
               "RelativeDocumentMoniker": "GameShopEntity.DataAccessLayer\\Seeding\\GameRatingSeeder.cs",
@@ -1392,7 +1447,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 82,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity.DataAccessLayer\\Interface\\Repositories\\IRepository.cs",
               "RelativeDocumentMoniker": "GameShopEntity.DataAccessLayer\\Interface\\Repositories\\IRepository.cs",
@@ -1404,7 +1459,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 83,
               "Title": "IGameRatingRepository.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity.DataAccessLayer\\Interface\\Repositories\\IGameRatingRepository.cs",
               "RelativeDocumentMoniker": "GameShopEntity.DataAccessLayer\\Interface\\Repositories\\IGameRatingRepository.cs",
@@ -1416,7 +1471,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 84,
               "Title": "UserSeeder.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\GameShopEntity.DataAccessLayer\\Seeding\\UserSeeder.cs",
               "RelativeDocumentMoniker": "GameShopEntity.DataAccessLayer\\Seeding\\UserSeeder.cs",
@@ -1428,19 +1483,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 87,
+              "DocumentIndex": 89,
               "Title": "GameCartAggregator.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ApiGateaway\\GameCartAggregator.cs",
               "RelativeDocumentMoniker": "ApiGateaway\\GameCartAggregator.cs",
               "ToolTip": "C:\\Users\\Acer\\source\\repos\\GameShopEntity\\ApiGateaway\\GameCartAggregator.cs",
               "RelativeToolTip": "ApiGateaway\\GameCartAggregator.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAwBYAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T19:38:33.548Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             }
           ]
         }

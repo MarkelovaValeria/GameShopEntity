@@ -6,9 +6,18 @@ using GameShopEntity.DataAccessLayer.Data;
 using GameShopEntity.DataAccessLayer.Data.Repositories;
 using GameShopEntity.DataAccessLayer.Interface;
 using GameShopEntity.DataAccessLayer.Interface.Repositories;
+using GameShopEntity.Grpc;
 using MassTransit;
 using Microsoft.EntityFrameworkCore;
+using BusinessGameService = GameShopEntity.BusinessLogicalLayer.Service.GameService;
 using Microsoft.OpenApi.Models;
+using GameShopEntity.Grpc;
+using GrpcGameService = GameShopEntity.Grpc.GameService;
+using GameShopEntity.gRPC;
+using GameShopEntityCategory.Grpc;
+using GameShopEntityAggregator.Grpc;
+using Microsoft.Extensions.Options;
+using System.Net;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -20,6 +29,23 @@ builder.Services.AddDbContext<GameShopContext>(options =>
     string connectionString = configuration.GetConnectionString("DefaultConnection");
     options.UseSqlServer(connectionString);
 });
+
+builder.Services.AddGrpc();
+
+builder.Services.AddSingleton<GameGrpcClientService>();
+builder.Services.AddGrpcClient<AggregatorService.AggregatorServiceClient>(options =>
+{
+    options.Address = new Uri("http://localhost:5155"); 
+})
+    .ConfigureHttpClient(client =>
+    {
+        client.DefaultRequestVersion = HttpVersion.Version11;  // Force HTTP/1.1
+    });
+
+// Зареєструйте AggregatorGrpcClientService
+builder.Services.AddScoped<AggregatorGrpcClientService>();
+
+
 builder.Services.AddMemoryCache();
 builder.Services.AddStackExchangeRedisCache(options =>
 {
@@ -57,9 +83,41 @@ builder.Services.AddMassTransitHostedService();
 builder.Services.AddTransient<IGameRepository, GameRepository>();
 builder.Services.AddTransient<IUnitOfWork, UnitOfWork>();
 
-builder.Services.AddTransient<IGamesService, GameService>();
+builder.Services.AddTransient<IGamesService, BusinessGameService>();
 
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+
+builder.Services.AddScoped<AggregatorGrpcClientService>();
+
+builder.Services.AddGrpcClient<GrpcGameService.GameServiceClient>(o =>
+{
+    o.Address = new Uri("http://localhost:5155");
+   
+})
+    .ConfigurePrimaryHttpMessageHandler(() => new HttpClientHandler
+    {
+        MaxConnectionsPerServer = 10,
+        UseCookies = false
+    })
+    .ConfigureHttpClient(client =>
+    {
+        client.DefaultRequestVersion = HttpVersion.Version11;  // Force HTTP/1.1
+    });
+
+builder.Services.AddGrpcClient<CategoryService.CategoryServiceClient>(o =>
+{
+    o.Address = new Uri("http://localhost:5155");
+    
+})
+    .ConfigurePrimaryHttpMessageHandler(() => new HttpClientHandler
+    {
+        MaxConnectionsPerServer = 10,
+        UseCookies = false
+    })
+    .ConfigureHttpClient(client =>
+    {
+        client.DefaultRequestVersion = HttpVersion.Version11;  // Force HTTP/1.1
+    }); 
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -73,6 +131,7 @@ builder.Services.AddSwaggerGen(c =>
         Version = "v1"
     });
 });
+
 
 var app = builder.Build();
 
@@ -95,5 +154,10 @@ app.UseHttpsRedirection();
 app.UseAuthorization();
 
 app.MapControllers();
+
+app.MapGrpcService<AggregatorGrpcClientService>();
+app.MapGet("/aggregator", () => "This is a gRPC aggregator server.");
+app.MapGrpcService<GameServiceImpl>();
+app.MapGet("/", () => "This is a gRPC server.");
 
 app.Run();

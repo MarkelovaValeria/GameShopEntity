@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+option csharp_namespace = "GameShopEntityCategory.Grpc";
+
+service CategoryService {
+    rpc GetCategoriesByGameId(CategoryRequest) returns (CategoryResponse);
+}
+
+message CategoryRequest {
+    int32 categoryId = 1;
+}
+message GameCategoryRequest {
+    int32 gameId = 1;
+}
+
+message CategoryResponse {
+    int32 categoryId = 1;
+    string categoryName = 2;
+}
+
+

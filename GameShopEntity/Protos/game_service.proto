@@ -1,0 +1,33 @@
+syntax = "proto3";
+
+option csharp_namespace = "GameShopEntity.Grpc";
+
+service GameService {
+    rpc GetGameById(GameRequest) returns (GameResponse);
+
+    rpc GetGamesStream(GameRequest) returns (stream GameResponse);
+    
+    rpc StreamGameData(stream GameCreateRequest) returns (stream GameCreateResponse);
+}
+
+message GameRequest {
+    int32 id = 1;
+}
+
+message GameResponse {
+    int32 id = 1;
+    string title = 2;
+    string description = 3;
+    double price = 4;
+}
+
+message GameCreateRequest {
+    string title = 1;
+    string description = 2;
+    double price = 3;
+}
+
+message GameCreateResponse {
+    bool success = 1;
+    string message = 2;
+}

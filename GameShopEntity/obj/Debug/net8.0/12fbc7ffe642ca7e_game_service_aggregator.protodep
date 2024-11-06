@@ -1,0 +1,4 @@
+obj\Debug\net8.0\Protos/GameServiceAggregator.cs \
+obj\Debug\net8.0\Protos/GameServiceAggregatorGrpc.cs: Protos/game_service.proto\
+ Protos/category_service.proto\
+ Protos/game_service_aggregator.proto

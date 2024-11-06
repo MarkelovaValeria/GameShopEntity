@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GameShopEntity.DataAccessLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+237e326316b929cf24d945da981ae646c020cc32")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f513ebaf2beaa2e8ec4e761027339747a2f8b210")]
 [assembly: System.Reflection.AssemblyProductAttribute("GameShopEntity.DataAccessLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GameShopEntity.DataAccessLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
