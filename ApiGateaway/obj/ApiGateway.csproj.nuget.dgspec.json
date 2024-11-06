@@ -46,6 +46,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "MMLib.SwaggerForOcelot": {
+              "target": "Package",
+              "version": "[8.3.2, )"
+            },
+            "MassTransit": {
+              "target": "Package",
+              "version": "[8.3.0, )"
+            },
             "Ocelot": {
               "target": "Package",
               "version": "[23.3.6, )"

@@ -10,7 +10,8 @@
           "Port": 5155
         }
       ],
-      "DownstreamPathTemplate": "/api/Game"
+      "DownstreamPathTemplate": "/api/Game",
+      "SwaggerKey": "game"
     },
     {
       "UpstreamPathTemplate": "/api/v1/Game/{id}",
@@ -23,20 +24,10 @@
         }
       ],
       "DownstreamPathTemplate": "/api/Game/{id}",
+      "SwaggerKey": "game",
       "CacheOptions": {
         "CacheKey": "Game-{id}",
         "TTLSeconds": 300
-      },
-      "RateLimitOptions": {
-        "QuotaExceededMessage": "Rate limit exceeded. Please try again later.",
-        "EnableRateLimiting": true,
-        "GeneralRules": [
-          {
-            "Endpoint": "/api/v1/Game",
-            "Period": "1s",
-            "Limit": 5 
-          }
-        ]
       }
     },
     {
@@ -49,7 +40,8 @@
           "Port": 5155
         }
       ],
-      "DownstreamPathTemplate": "/api/Game/gameCategory/{gameId}"
+      "DownstreamPathTemplate": "/api/Game/gameCategory/{gameId}",
+      "SwaggerKey": "game"
     },
     {
       "UpstreamPathTemplate": "/api/v1/ShoppingCart/{userName}",
@@ -61,10 +53,59 @@
           "Port": 5124
         }
       ],
-      "DownstreamPathTemplate": "/api/ShoppingCart/{userName}"
+      "DownstreamPathTemplate": "/api/ShoppingCart/{userName}",
+      "SwaggerKey": "shoppingCart"
+    }
+  ],
+  "RateLimitOptions": {
+    "QuotaExceededMessage": "Rate limit exceeded. Please try again later.",
+    "EnableRateLimiting": true,
+    "GeneralRules": [
+      {
+        "Endpoint": "/api/v1/Game",
+        "Period": "1m",
+        "Limit": 5
+      }
+    ]
+  },
+  "AggregateRoutes": [
+    {
+      "UpstreamPathTemplate": "/api/v1/Game/details/{gameId}/{userName}",
+      "UpstreamHttpMethod": [ "Get" ],
+      "Aggregator": "GameAndCartAggregator",
+      "RouteKeys": [
+        "/api/v1/Game/{gameId}",
+        "/api/v1/ShoppingCart/{userName}"
+      ]
+    }
+  ],
+  "SwaggerEndPoints": [
+    {
+      "Key": "game",
+      "Config": [
+        {
+          "Name": "Game API",
+          "Version": "v1",
+          "Url": "http://localhost:5155/swagger/v1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "shoppingCart",
+      "Config": [
+        {
+          "Name": "Shopping Cart API",
+          "Version": "v1",
+          "Url": "http://localhost:5124/swagger/v1/swagger.json"
+        }
+      ]
     }
   ],
   "GlobalConfiguration": {
-    "BaseUrl": "http://localhost:5133"
+    "BaseUrl": "http://localhost:5133",
+    "SwaggerKeyToPathMapping": {
+      "Game": "/api/Game",
+      "ShoppingCart": "/api/ShoppingCart"
+    }
   }
 }

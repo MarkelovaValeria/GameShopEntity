@@ -128,3 +128,11 @@ C:\Users\Acer\source\repos\GameShopEntity\GameShopEntity.DataAccessLayer\obj\Deb
 C:\Users\Acer\source\repos\GameShopEntity\GameShopEntity.DataAccessLayer\obj\Debug\net8.0\GameShopEntity.DataAccessLayer.pdb
 C:\Users\Acer\source\repos\GameShopEntity\GameShopEntity.DataAccessLayer\obj\Debug\net8.0\GameShopEntity.DataAccessLayer.genruntimeconfig.cache
 C:\Users\Acer\source\repos\GameShopEntity\GameShopEntity.DataAccessLayer\obj\Debug\net8.0\ref\GameShopEntity.DataAccessLayer.dll
+C:\Users\Acer\source\repos\GameShopEntity\GameShopEntity.DataAccessLayer\bin\Debug\net8.0\MassTransit.dll
+C:\Users\Acer\source\repos\GameShopEntity\GameShopEntity.DataAccessLayer\bin\Debug\net8.0\MassTransit.Abstractions.dll
+C:\Users\Acer\source\repos\GameShopEntity\GameShopEntity.DataAccessLayer\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\Acer\source\repos\GameShopEntity\GameShopEntity.DataAccessLayer\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\Acer\source\repos\GameShopEntity\GameShopEntity.DataAccessLayer\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\Acer\source\repos\GameShopEntity\GameShopEntity.DataAccessLayer\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Acer\source\repos\GameShopEntity\GameShopEntity.DataAccessLayer\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Acer\source\repos\GameShopEntity\GameShopEntity.DataAccessLayer\obj\Debug\net8.0\GameShopEntity.DataAccessLayer.sourcelink.json

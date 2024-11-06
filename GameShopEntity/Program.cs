@@ -1,3 +1,4 @@
+using GameShopEntity.BusinessLogicalLayer.Consumers;
 using GameShopEntity.BusinessLogicalLayer.Interface.Services;
 using GameShopEntity.BusinessLogicalLayer.Service;
 using GameShopEntity.DataAccessLayer;
@@ -5,6 +6,7 @@ using GameShopEntity.DataAccessLayer.Data;
 using GameShopEntity.DataAccessLayer.Data.Repositories;
 using GameShopEntity.DataAccessLayer.Interface;
 using GameShopEntity.DataAccessLayer.Interface.Repositories;
+using MassTransit;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
 
@@ -21,8 +23,36 @@ builder.Services.AddDbContext<GameShopContext>(options =>
 builder.Services.AddMemoryCache();
 builder.Services.AddStackExchangeRedisCache(options =>
 {
-    options.Configuration = builder.Configuration.GetConnectionString("Redis");
+    options.Configuration = builder.Configuration["Redis:RedisConnection"];
 });
+
+builder.Services.AddMassTransit(x =>
+{
+    x.AddConsumer<GameCreatedEventConsumer>(); 
+
+    x.UsingRabbitMq((context, cfg) =>
+    {
+        cfg.Host("rabbitmq://localhost", h =>
+        {
+            h.Username("guest");
+            h.Password("guest");
+        });
+
+        cfg.ExchangeType = RabbitMQ.Client.ExchangeType.Fanout; 
+
+        cfg.ConfigurePublish(p => p.UseConcurrencyLimit(1));
+
+        // Налаштування споживання подій
+        cfg.ReceiveEndpoint("game-created-queue", e =>
+        {
+            e.ConfigureConsumer<GameCreatedEventConsumer>(context);
+            e.Bind("game-events", x => x.RoutingKey = "game.created"); 
+        });
+
+    });
+});
+
+builder.Services.AddMassTransitHostedService();
 
 builder.Services.AddTransient<IGameRepository, GameRepository>();
 builder.Services.AddTransient<IUnitOfWork, UnitOfWork>();

@@ -67,3 +67,11 @@ C:\Users\Acer\source\repos\GameShopEntity\GameShopEntity.BusinessLogicalLayer\ob
 C:\Users\Acer\source\repos\GameShopEntity\GameShopEntity.BusinessLogicalLayer\obj\Debug\net8.0\GameShopEntity.BusinessLogicalLayer.pdb
 C:\Users\Acer\source\repos\GameShopEntity\GameShopEntity.BusinessLogicalLayer\obj\Debug\net8.0\GameShopEntity.BusinessLogicalLayer.genruntimeconfig.cache
 C:\Users\Acer\source\repos\GameShopEntity\GameShopEntity.BusinessLogicalLayer\obj\Debug\net8.0\ref\GameShopEntity.BusinessLogicalLayer.dll
+C:\Users\Acer\source\repos\GameShopEntity\GameShopEntity.BusinessLogicalLayer\bin\Debug\net8.0\MassTransit.dll
+C:\Users\Acer\source\repos\GameShopEntity\GameShopEntity.BusinessLogicalLayer\bin\Debug\net8.0\MassTransit.Abstractions.dll
+C:\Users\Acer\source\repos\GameShopEntity\GameShopEntity.BusinessLogicalLayer\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\Acer\source\repos\GameShopEntity\GameShopEntity.BusinessLogicalLayer\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\Acer\source\repos\GameShopEntity\GameShopEntity.BusinessLogicalLayer\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\Acer\source\repos\GameShopEntity\GameShopEntity.BusinessLogicalLayer\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Acer\source\repos\GameShopEntity\GameShopEntity.BusinessLogicalLayer\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Acer\source\repos\GameShopEntity\GameShopEntity.BusinessLogicalLayer\obj\Debug\net8.0\GameShopEntity.BusinessLogicalLayer.sourcelink.json

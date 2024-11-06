@@ -57,6 +57,7 @@ namespace GameShopEntity.DataAccessLayer.Data.Repositories
 
         public async Task<Games> GetGamesByIdAsync(int id)
         {
+            Console.WriteLine(id);
             return await table.FirstOrDefaultAsync(x => x.Id == id);
 
         }
