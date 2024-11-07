@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GameShopEntity.DataAccessLayer.Interface.Repositories
 {
-    internal interface IGameRatingRepository
+    public interface IGameRatingRepository
     {
     }
 }
