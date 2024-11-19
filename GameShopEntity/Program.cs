@@ -68,7 +68,6 @@ builder.Services.AddMassTransit(x =>
 
         cfg.ConfigurePublish(p => p.UseConcurrencyLimit(1));
 
-        // Налаштування споживання подій
         cfg.ReceiveEndpoint("game-created-queue", e =>
         {
             e.ConfigureConsumer<GameCreatedEventConsumer>(context);
@@ -132,6 +131,14 @@ builder.Services.AddSwaggerGen(c =>
     });
 });
 
+
+/*builder.WebHost.ConfigureKestrel(options =>
+{
+    options.ListenAnyIP(5155, o => o.Protocols =
+        Microsoft.AspNetCore.Server.Kestrel.Core.HttpProtocols.Http1);
+    options.ListenAnyIP(5155, o => o.Protocols =
+        Microsoft.AspNetCore.Server.Kestrel.Core.HttpProtocols.Http2);
+});*/
 
 var app = builder.Build();
 

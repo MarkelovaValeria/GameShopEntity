@@ -26,7 +26,7 @@ namespace GameShopEntity.BusinessLogicalLayer.Producers
         {
             await _bus.Publish(gameEvent, x =>
             {
-                x.SetRoutingKey("game.created"); // Встановлюємо ключ маршруту
+                x.SetRoutingKey("game.created"); 
             });
         }
     }

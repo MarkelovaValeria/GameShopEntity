@@ -23,7 +23,7 @@ namespace UserApi.DataAccessLayer.Data.Repositories
 
         public async Task DeleteUserAsync(int id)
         {
-            var user = await table.FirstOrDefaultAsync(x => x.Id == id);
+            var user = await table.FirstOrDefaultAsync(x => x.UserId == id);
             if (user != null)
             {
                 table.Remove(user);
@@ -44,7 +44,7 @@ namespace UserApi.DataAccessLayer.Data.Repositories
        
         public async Task<Users> GetUserByIdAsync(int id)
         {
-            return await table.FirstOrDefaultAsync(x => x.Id == id);
+            return await table.FirstOrDefaultAsync(x => x.UserId == id);
         }
 
         
@@ -57,7 +57,7 @@ namespace UserApi.DataAccessLayer.Data.Repositories
         public override async Task<Users> GetCompleteEntityAsync(int id)
         {
             return await table.Include(u => u.UserRoles) 
-                                .FirstOrDefaultAsync(x => x.Id == id);
+                                .FirstOrDefaultAsync(x => x.UserId == id);
         }
     }
 }

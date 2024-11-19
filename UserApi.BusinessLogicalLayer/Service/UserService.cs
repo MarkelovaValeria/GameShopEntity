@@ -41,9 +41,9 @@ namespace UserApi.BusinessLogicalLayer.Service
                 throw new Exception("User with the given email or username already exists.");
             }
 
-            await userRepository.AddUserAsync(user);
+            await userRepository.InsertAsync(user);
 
-            await unitOfWork.CommitAsync();
+            await unitOfWork.SaveChangesAsync();
         }
     }
 }

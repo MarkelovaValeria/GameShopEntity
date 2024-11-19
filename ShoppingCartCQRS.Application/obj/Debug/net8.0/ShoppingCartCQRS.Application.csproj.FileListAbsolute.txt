@@ -22,6 +22,7 @@ C:\Users\Acer\source\repos\GameShopEntity\ShoppingCartCQRS.Application\obj\Debug
 C:\Users\Acer\source\repos\GameShopEntity\ShoppingCartCQRS.Application\obj\Debug\net8.0\ShoppingCartCQRS.Application.AssemblyInfoInputs.cache
 C:\Users\Acer\source\repos\GameShopEntity\ShoppingCartCQRS.Application\obj\Debug\net8.0\ShoppingCartCQRS.Application.AssemblyInfo.cs
 C:\Users\Acer\source\repos\GameShopEntity\ShoppingCartCQRS.Application\obj\Debug\net8.0\ShoppingCartCQRS.Application.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\GameShopEntity\ShoppingCartCQRS.Application\obj\Debug\net8.0\ShoppingCartCQRS.Application.sourcelink.json
 C:\Users\Acer\source\repos\GameShopEntity\ShoppingCartCQRS.Application\obj\Debug\net8.0\Shopping.BBD6F347.Up2Date
 C:\Users\Acer\source\repos\GameShopEntity\ShoppingCartCQRS.Application\obj\Debug\net8.0\ShoppingCartCQRS.Application.dll
 C:\Users\Acer\source\repos\GameShopEntity\ShoppingCartCQRS.Application\obj\Debug\net8.0\refint\ShoppingCartCQRS.Application.dll

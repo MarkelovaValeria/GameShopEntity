@@ -1,10 +1,11 @@
-﻿using GameShopEntity.DataAccessLayer.Interface.Repositories;
+﻿
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using UserApi.DataAccessLayer.Interface.Repositories;
 
 namespace UserApi.DataAccessLayer.Data.Repositories
 {

@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Metadata.Builders;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -18,7 +20,6 @@ namespace UserApi.DataAccessLayer.Configurations
                 .IsRequired()
                 .HasMaxLength(50);
 
-            // Додавання первинних даних (якщо є необхідність)
             new RoleSeeder().Seed(builder);
         }
     }

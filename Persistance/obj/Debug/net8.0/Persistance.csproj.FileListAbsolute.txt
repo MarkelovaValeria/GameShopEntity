@@ -129,6 +129,7 @@ C:\Users\Acer\source\repos\GameShopEntity\Persistance\obj\Debug\net8.0\Persistan
 C:\Users\Acer\source\repos\GameShopEntity\Persistance\obj\Debug\net8.0\Persistance.AssemblyInfoInputs.cache
 C:\Users\Acer\source\repos\GameShopEntity\Persistance\obj\Debug\net8.0\Persistance.AssemblyInfo.cs
 C:\Users\Acer\source\repos\GameShopEntity\Persistance\obj\Debug\net8.0\Persistance.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\GameShopEntity\Persistance\obj\Debug\net8.0\Persistance.sourcelink.json
 C:\Users\Acer\source\repos\GameShopEntity\Persistance\obj\Debug\net8.0\Persista.3F568332.Up2Date
 C:\Users\Acer\source\repos\GameShopEntity\Persistance\obj\Debug\net8.0\Persistance.dll
 C:\Users\Acer\source\repos\GameShopEntity\Persistance\obj\Debug\net8.0\refint\Persistance.dll

@@ -5,7 +5,9 @@ VisualStudioVersion = 17.10.35004.147
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameShopEntity", "GameShopEntity\GameShopEntity.csproj", "{988160C6-3DD2-4AC7-A9E8-1E2AAD45BD69}"
 	ProjectSection(ProjectDependencies) = postProject
+		{0E55C924-909F-4BB3-AE16-162DC2A9202B} = {0E55C924-909F-4BB3-AE16-162DC2A9202B}
 		{DC39AEDC-4F48-41AE-BB27-6EF7232AD1DE} = {DC39AEDC-4F48-41AE-BB27-6EF7232AD1DE}
+		{EDB69BEA-3244-4D02-A7FC-2F32C83DF5C4} = {EDB69BEA-3244-4D02-A7FC-2F32C83DF5C4}
 	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameShopEntity.DataAccessLayer", "GameShopEntity.DataAccessLayer\GameShopEntity.DataAccessLayer.csproj", "{B79AC659-EA9B-4D65-9714-DC6CA935BC9E}"
@@ -41,11 +43,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UserApi", "UserApi", "{5D13B495-9271-44A8-9358-2133ABA2F9E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserApi", "UserApi\UserApi.csproj", "{EDB69BEA-3244-4D02-A7FC-2F32C83DF5C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserApi", "UserApi\UserApi.csproj", "{EDB69BEA-3244-4D02-A7FC-2F32C83DF5C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserApi.BusinessLogicalLayer", "UserApi.BusinessLogicalLayer\UserApi.BusinessLogicalLayer.csproj", "{7EEA3408-4F02-4F21-8692-831B4C14A29D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserApi.BusinessLogicalLayer", "UserApi.BusinessLogicalLayer\UserApi.BusinessLogicalLayer.csproj", "{7EEA3408-4F02-4F21-8692-831B4C14A29D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserApi.DataAccessLayer", "UserApi.DataAccessLayer\UserApi.DataAccessLayer.csproj", "{AA2D31CB-B4F8-4F93-ADB6-EF90F0C52D0B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserApi.DataAccessLayer", "UserApi.DataAccessLayer\UserApi.DataAccessLayer.csproj", "{AA2D31CB-B4F8-4F93-ADB6-EF90F0C52D0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityServer", "IdentityServer\IdentityServer.csproj", "{0E55C924-909F-4BB3-AE16-162DC2A9202B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "newUserApi", "newUserApi", "{7D72CD06-9BD8-474C-92DC-6BCD44E01CFD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -101,6 +107,10 @@ Global
 		{AA2D31CB-B4F8-4F93-ADB6-EF90F0C52D0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA2D31CB-B4F8-4F93-ADB6-EF90F0C52D0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA2D31CB-B4F8-4F93-ADB6-EF90F0C52D0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E55C924-909F-4BB3-AE16-162DC2A9202B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E55C924-909F-4BB3-AE16-162DC2A9202B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E55C924-909F-4BB3-AE16-162DC2A9202B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E55C924-909F-4BB3-AE16-162DC2A9202B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -122,6 +132,8 @@ Global
 		{EDB69BEA-3244-4D02-A7FC-2F32C83DF5C4} = {5D13B495-9271-44A8-9358-2133ABA2F9E3}
 		{7EEA3408-4F02-4F21-8692-831B4C14A29D} = {5D13B495-9271-44A8-9358-2133ABA2F9E3}
 		{AA2D31CB-B4F8-4F93-ADB6-EF90F0C52D0B} = {5D13B495-9271-44A8-9358-2133ABA2F9E3}
+		{0E55C924-909F-4BB3-AE16-162DC2A9202B} = {5D13B495-9271-44A8-9358-2133ABA2F9E3}
+		{7D72CD06-9BD8-474C-92DC-6BCD44E01CFD} = {EA9400EA-AE93-4E04-B186-E85AB33B0C0F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2BE661B6-6DE7-4382-B590-F9AF8A1667C9}
